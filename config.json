@@ -1,0 +1,10 @@
+{
+    "serverName": "127.0.0.1",
+    "serverPort": 30002,
+    "serverType": "raw",
+    "listenAddress": "0.0.0.0",
+    "listenPort": 7740,
+    "latitude": 38.897985,
+    "longitude": -77.036562,
+    "debug": false
+}
